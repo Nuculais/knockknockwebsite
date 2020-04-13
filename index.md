@@ -1,6 +1,49 @@
+## *Our purpose*
+# _Why we started on our journey_
+
+
+
+
+
+## *Our product*
+# _What do we offer?_
+
+
+
+
+
+
+## *Who are we?*
+# _Meet the team_
+
+
+
+
+
+## *Our latest news*
+# _WHat are we currently working on?_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
-MJAU
-You can LOSE the [editor on GitHub](https://github.com/Nuculais/knockknockwebsite/edit/master/index.md) to maintain and preview the content for your website in Markdown files. hej hej 
+You can LOSE the [editor on GitHub](https://github.com/Nuculais/knockknockwebsite/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
