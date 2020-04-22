@@ -2,7 +2,7 @@
 #### _Why we started on our journey_
 The population of the world are aging, and with that comes the increased prevalence of Alzheimer’s and Dementhia-related disorders. It is expected that by the year 2030, around 180-190.000 Swedish elders and 75 million elders worldwide will have Dementhia*, with around 60-70% of these having Alzheimer’s**.
 A common symptom is loss of memory, they can forget the faces and sometimes even the existence of loved ones, friends family or care personnel. 
-For many, this is not only a great source of shame, but also puts them at risk; for instance, if a stranger with malicious intent knocks on their door attempting to get in.
+For many, this is not only a great source of shame, but also puts them at risk; for instance, if a stranger with malicious intent knocks on their door attempting to get in. </br>
 Our elders deserve better than that.
 
 ![Don't these lovely people deserve to feel safe?](https://live.staticflickr.com/5535/9366907976_d63f519bf3_c.jpg)
