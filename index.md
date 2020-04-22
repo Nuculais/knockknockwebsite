@@ -5,7 +5,7 @@ A common symptom is loss of memory, they can forget the faces and sometimes even
 For many, this is not only a great source of shame, but also puts them at risk; for instance, if a stranger with malicious intent knocks on their door attempting to get in. </br>
 Our elders deserve better than that.
 
-<img src=https://live.staticflickr.com/5535/9366907976_d63f519bf3_c.jpg width="400px" align="middle" alt="Don't these lovely people deserve to feel safe?" />
+<img src=https://live.staticflickr.com/5535/9366907976_d63f519bf3_c.jpg width=400px height=300px align="middle" alt="Don't these lovely people deserve to feel safe?" />
 
 Sources (make this text smaller):https://www.demenscentrum.se/Fakta-om-demens/Demens-i-siffror
  https://www.alzheimerfonden.se/demenssjukdom
